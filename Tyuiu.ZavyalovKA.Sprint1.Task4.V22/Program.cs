@@ -1,8 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more informatio
-using Tyuiu.ZavyalovKA.Sprint1.Task4.V22;
-using Tyuiu.ZavyalovKA.Sprint1.Task4.V22.Lib;
-using System;
-
+﻿using Tyuiu.ZavyalovKA.Sprint1.Task4.V22.Lib;
 class Program
 {
     static void Main(string[] args)
@@ -24,3 +20,4 @@ class Program
     }
 }
 
+              
