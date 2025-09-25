@@ -6,7 +6,7 @@ namespace Tyuiu.ZavyalovKA.Sprint1.Task4.V22.Test
     {
         [TestMethod]
         public void ValidExpression()
-        {
+        { 
             DataService ds = new DataService();
             double x = 4;
             double y = 1;
