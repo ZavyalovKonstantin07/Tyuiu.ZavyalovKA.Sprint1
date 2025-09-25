@@ -8,7 +8,8 @@ namespace Tyuiu.ZavyalovKA.Sprint1.Task5.V1.Lib
             double a = x2 - x1;
             double b = y2 - y1;
             double res = Math.Sqrt(a * a + b * b);
-            return (int)res;
+            int result = (int)Math.Round(res);
+            return result;
         }
     }
 }
