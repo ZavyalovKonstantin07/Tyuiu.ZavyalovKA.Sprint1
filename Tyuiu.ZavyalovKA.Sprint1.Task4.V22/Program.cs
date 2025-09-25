@@ -1,7 +1,7 @@
 ﻿using Tyuiu.ZavyalovKA.Sprint1.Task4.V22.Lib;
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) 
     {
         DataService ds = new DataService();
         Console.WriteLine("***************************************************************************");
